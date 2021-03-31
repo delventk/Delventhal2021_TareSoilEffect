@@ -1,0 +1,339 @@
+Sample ID,Seed Lot,Treatment,Soil Type,Plant ID#,Group,Variety,Seed Grower,State ,SL Tare Sample,Soil Sample,Replicates,Sample Type
+8 TS AG 4,8,TS,AG,4,8.TS.AG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 TS AG 7,8,TS,AG,7,8.TS.AG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 TS AG 6,8,TS,AG,6,8.TS.AG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 TS AG 8,8,TS,AG,8,8.TS.AG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 SS AG 6,8,SS,AG,6,8.SS.AG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 TS AG 5,8,TS,AG,5,8.TS.AG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 SS AG 7,8,SS,AG,7,8.SS.AG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 SS AG 13,8,SS,AG,13,8.SS.AG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 TS AG 9,8,TS,AG,9,8.TS.AG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 TS AG 2,8,TS,AG,2,8.TS.AG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 SS AG 4,8,SS,AG,4,8.SS.AG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 SS AG 14,8,SS,AG,14,8.SS.AG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 TS AG 15,8,TS,AG,15,8.TS.AG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 SS AG 9,8,SS,AG,9,8.SS.AG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 SS AG 1,8,SS,AG,1,8.SS.AG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+37 SS AG 7,37,SS,AG,7,37.SS.AG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 TS AG 3,37,TS,AG,3,37.TS.AG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 TS AG 14,37,TS,AG,14,37.TS.AG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 SS AG 1,37,SS,AG,1,37.SS.AG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 TS AG 7 X1,37,TS,AG,7,37.TS.AG,Alturas,SG 1,ID,0,0,1,Rhizosphere Soil
+37 SS AG 13,37,SS,AG,13,37.SS.AG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 SS AG 12,37,SS,AG,12,37.SS.AG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 SS AG 15,37,SS,AG,15,37.SS.AG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 TS AG 7 X2,37,TS,AG,7,37.TS.AG,Alturas,SG 1,ID,0,0,1,Rhizosphere Soil
+37 TS AG 6,37,TS,AG,6,37.TS.AG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 SS AG 10,37,SS,AG,10,37.SS.AG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 TS AG 10,37,TS,AG,10,37.TS.AG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 SS AG 8,37,SS,AG,8,37.SS.AG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 TS AG 5,37,TS,AG,5,37.TS.AG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 SS AG 3,37,SS,AG,3,37.SS.AG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+10 SS AG 2,10,SS,AG,2,10.SS.AG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 TS AG 6,10,TS,AG,6,10.TS.AG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 TS AG 1,10,TS,AG,1,10.TS.AG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 SS AG 13,10,SS,AG,13,10.SS.AG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 SS AG 3,10,SS,AG,3,10.SS.AG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 SS AG 7,10,SS,AG,7,10.SS.AG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 SS AG 10,10,SS,AG,10,10.SS.AG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 SS AG 11,10,SS,AG,11,10.SS.AG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 TS AG 5,10,TS,AG,5,10.TS.AG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 TS AG 4,10,TS,AG,4,10.TS.AG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 SS AG 4,10,SS,AG,4,10.SS.AG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 SS AG 9,10,SS,AG,9,10.SS.AG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 TS AG 11,10,TS,AG,11,10.TS.AG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 TS AG 3,10,TS,AG,3,10.TS.AG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+12 SS AG 10 X1,12,SS,AG,10,12.SS.AG,Alturas,SG 2,OR,0,0,1,Rhizosphere Soil
+12 SS AG 10 X2,12,SS,AG,10,12.SS.AG,Alturas,SG 2,OR,0,0,1,Rhizosphere Soil
+12 TS AG 2,12,TS,AG,2,12.TS.AG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 SS AG 14,12,SS,AG,14,12.SS.AG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 TS AG 1,12,TS,AG,1,12.TS.AG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 TS AG 10,12,TS,AG,10,12.TS.AG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 SS AG 7,12,SS,AG,7,12.SS.AG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 SS AG 6,12,SS,AG,6,12.SS.AG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 TS AG 6,12,TS,AG,6,12.TS.AG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 TS AG 7,12,TS,AG,7,12.TS.AG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 SS AG 1,12,SS,AG,1,12.SS.AG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 SS AG 4,12,SS,AG,4,12.SS.AG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 TS AG 12,12,TS,AG,12,12.TS.AG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 SS AG 13,12,SS,AG,13,12.SS.AG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 SS AG 15,12,SS,AG,15,12.SS.AG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 TS AG 14,12,TS,AG,14,12.TS.AG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 TS AG 13,12,TS,AG,13,12.TS.AG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+14 SS AG 8,14,SS,AG,8,14.SS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 TS AG 9,14,TS,AG,9,14.TS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 TS AG 15 ,14,TS,AG,15,14.TS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 TS AG 5,14,TS,AG,5,14.TS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 SS AG 12,14,SS,AG,12,14.SS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 SS AG 6,14,SS,AG,6,14.SS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 TS AG 11,14,TS,AG,11,14.TS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 SS AG 10,14,SS,AG,10,14.SS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 SS AG 14,14,SS,AG,14,14.SS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 TS AG 7,14,TS,AG,7,14.TS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 SS AG 1,14,SS,AG,1,14.SS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 TS AG 6,14,TS,AG,6,14.TS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 TS AG 3,14,TS,AG,3,14.TS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 TS AG 8,14,TS,AG,8,14.TS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 SS AG 3,14,SS,AG,3,14.SS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 TS AG 10,15,TS,AG,10,15.TS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 SS AG 2 X1,15,SS,AG,2,15.SS.AG,Clearwater,SG 2,OR,0,0,1,Rhizosphere Soil
+15 SS AG 11,15,SS,AG,11,15.SS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 SS AG 14,15,SS,AG,14,15.SS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 SS AG 4,15,SS,AG,4,15.SS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 SS AG 9,15,SS,AG,9,15.SS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 SS AG 7,15,SS,AG,7,15.SS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 SS AG 12,15,SS,AG,12,15.SS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 TS AG 1,15,TS,AG,1,15.TS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 SS AG 2 X2,15,SS,AG,2,15.SS.AG,Clearwater,SG 2,OR,0,0,1,Rhizosphere Soil
+15 TS AG 3,15,TS,AG,3,15.TS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 SS AG 10,15,SS,AG,10,15.SS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 SS AG 13,15,SS,AG,13,15.SS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 TS AG 5,15,TS,AG,5,15.TS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 TS AG 6,15,TS,AG,6,15.TS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 TS AG 7,15,TS,AG,7,15.TS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 TS AG 12,15,TS,AG,12,15.TS.AG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+22 TS AG 5,22,TS,AG,5,22.TS.AG,Clearwater,SG 3,AB (CA),1,0,0,Rhizosphere Soil
+22 SS AG 4,22,SS,AG,4,22.SS.AG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 TS AG 9,22,TS,AG,9,22.TS.AG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 SS AG 12,22,SS,AG,12,22.SS.AG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 TS AG 7,22,TS,AG,7,22.TS.AG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 TS AG 3,22,TS,AG,3,22.TS.AG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 TS AG 14,22,TS,AG,14,22.TS.AG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 SS AG 1,22,SS,AG,1,22.SS.AG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 TS AG 15,22,TS,AG,15,22.TS.AG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 SS AG 2,22,SS,AG,2,22.SS.AG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 SS AG 5,22,SS,AG,5,22.SS.AG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 TS AG 2,22,TS,AG,2,22.TS.AG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 TS AG 4,22,TS,AG,4,22.TS.AG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 TS AG 6,22,TS,AG,6,22.TS.AG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 SS AG 8,22,SS,AG,8,22.SS.AG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 SS AG 9,22,SS,AG,9,22.SS.AG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 SS AG 7,22,SS,AG,7,22.SS.AG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 SS AG 13,26,SS,AG,13,26.SS.AG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 SS AG 8,26,SS,AG,8,26.SS.AG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 SS AG 12,26,SS,AG,12,26.SS.AG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 TS AG 1,26,TS,AG,1,26.TS.AG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 TS AG 11,26,TS,AG,11,26.TS.AG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 TS AG 5,26,TS,AG,5,26.TS.AG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 TS AG 4,26,TS,AG,4,26.TS.AG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 SS AG 7,26,SS,AG,7,26.SS.AG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 SS AG 3,26,SS,AG,3,26.SS.AG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 SS AG 1,26,SS,AG,1,26.SS.AG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 TS AG 15,26,TS,AG,15,26.TS.AG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 TS AG 13,26,TS,AG,13,26.TS.AG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 SS AG 6,26,SS,AG,6,26.SS.AG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 TS AG 7,26,TS,AG,7,26.TS.AG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 SS AG 2,26,SS,AG,2,26.SS.AG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 TS AG 9,26,TS,AG,9,26.TS.AG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 SS AG 10,26,SS,AG,10,26.SS.AG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 SS AG 5,26,SS,AG,5,26.SS.AG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+25 TS AG 15,25,TS,AG,15,25.TS.AG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 SS AG 3,25,SS,AG,3,25.SS.AG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 TS AG 7,25,TS,AG,7,25.TS.AG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 TS AG 13,25,TS,AG,13,25.TS.AG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 TS AG 1,25,TS,AG,1,25.TS.AG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 TS AG 10,25,TS,AG,10,25.TS.AG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 TS AG 11,25,TS,AG,11,25.TS.AG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 SS AG 12,25,SS,AG,12,25.SS.AG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 SS AG 2,25,SS,AG,2,25.SS.AG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 TS AG 12,25,TS,AG,12,25.TS.AG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 SS AG 10,25,SS,AG,10,25.SS.AG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 SS AG 7,25,SS,AG,7,25.SS.AG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 SS AG 1,25,SS,AG,1,25.SS.AG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+38 TS AG 15,38,TS,AG,15,38.TS.AG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 TS AG 8,38,TS,AG,8,38.TS.AG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 TS AG 7,38,TS,AG,7,38.TS.AG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 SS AG 8,38,SS,AG,8,38.SS.AG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 SS AG 9 ,38,SS,AG,9,38.SS.AG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 SS AG 15,38,SS,AG,15,38.SS.AG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 TS AG 3,38,TS,AG,3,38.TS.AG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 TS AG 10,38,TS,AG,10,38.TS.AG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 SS AG 4,38,SS,AG,4,38.SS.AG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 TS AG 6,38,TS,AG,6,38.TS.AG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 SS AG 9,38,SS,AG,9,38.SS.AG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 TS AG 14,38,TS,AG,14,38.TS.AG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 TS AG 2,38,TS,AG,2,38.TS.AG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 SS AG 11,38,SS,AG,11,38.SS.AG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 SS AG 2,38,SS,AG,2,38.SS.AG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+8 SS VG 9,8,SS,VG,9,8.SS.VG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 TS VG 14,8,TS,VG,14,8.TS.VG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 SS VG 12,8,SS,VG,12,8.SS.VG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 SS VG 6,8,SS,VG,6,8.SS.VG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 SS VG 5,8,SS,VG,5,8.SS.VG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 SS VG 8,8,SS,VG,8,8.SS.VG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 TS VG 12,8,TS,VG,12,8.TS.VG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 TS VG 11,8,TS,VG,11,8.TS.VG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 TS VG 1,8,TS,VG,1,8.TS.VG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 SS VG 2,8,SS,VG,2,8.SS.VG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 TS VG 3,8,TS,VG,3,8.TS.VG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 TS VG 15,8,TS,VG,15,8.TS.VG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 TS VG 7,8,TS,VG,7,8.TS.VG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 TS VG 13,8,TS,VG,13,8.TS.VG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+8 SS VG 14,8,SS,VG,14,8.SS.VG,Shepody,SG 1,ID,0,0,0,Rhizosphere Soil
+37 SS VG 3,37,SS,VG,3,37.SS.VG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 SS VG 12,37,SS,VG,12,37.SS.VG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 TS AG 12,37,TS,VG,12,37.TS.VG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 SS VG 1,37,SS,VG,1,37.SS.VG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 SS VG 9,37,SS,VG,9,37.SS.VG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 TS VG 15,37,TS,VG,15,37.TS.VG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 SS VG 6,37,SS,VG,6,37.SS.VG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 TS VG 4,37,TS,VG,4,37.TS.VG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 TS VG 9,37,TS,VG,9,37.TS.VG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 TS VG 3,37,TS,VG,3,37.TS.VG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 SS VG 11,37,SS,VG,11,37.SS.VG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 TS VG 5,37,TS,VG,5,37.TS.VG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 TS VG 2,37,TS,VG,2,37.TS.VG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 SS VG 7,37,SS,VG,7,37.SS.VG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 SS VG 14,37,SS,VG,14,37.SS.VG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 TS VG 13,37,TS,VG,13,37.TS.VG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+37 TS VG 14,37,TS,VG,14,37.TS.VG,Alturas,SG 1,ID,0,0,0,Rhizosphere Soil
+10 TS VG 9,10,TS,VG,9,10.TS.VG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 TS VG 6,10,TS,VG,6,10.TS.VG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 SS VG 2,10,SS,VG,2,10.SS.VG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 SS VG 10 ,10,SS,VG,10,10.SS.VG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 SS VG 1,10,SS,VG,1,10.SS.VG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 TS VG 5,10,TS,VG,5,10.TS.VG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 SS VG 12,10,SS,VG,12,10.SS.VG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 SS VG 15,10,SS,VG,15,10.SS.VG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 SS VG 11,10,SS,VG,11,10.SS.VG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 SS VG 4,10,SS,VG,4,10.SS.VG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 SS VG 9,10,SS,VG,9,10.SS.VG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 TS VG 3,10,TS,VG,3,10.TS.VG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 TS VG 2,10,TS,VG,2,10.TS.VG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 TS VG 12,10,TS,VG,12,10.TS.VG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+10 TS VG 15,10,TS,VG,15,10.TS.VG,Shepody,SG 2,OR,0,0,0,Rhizosphere Soil
+12 SS VG 4,12,SS,VG,4,12.SS.VG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 SS VG 3,12,SS,VG,3,12.SS.VG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 TS VG 14,12,TS,VG,14,12.TS.VG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 SS VG 10,12,SS,VG,10,12.SS.VG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 TS VG 12,12,TS,VG,12,12.TS.VG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 SS VG 12,12,SS,VG,12,12.SS.VG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 TS VG 15,12,TS,VG,15,12.TS.VG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 TS VG 5,12,TS,VG,5,12.TS.VG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 TS VG 10 ,12,TS,VG,10,12.TS.VG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 SS VG 5,12,SS,VG,5,12.SS.VG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 TS VG 4,12,TS,VG,4,12.TS.VG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 SS VG 11,12,SS,VG,11,12.SS.VG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 TS VG 9,12,TS,VG,9,12.TS.VG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 SS VG 9,12,SS,VG,9,12.SS.VG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 SS VG 2,12,SS,VG,2,12.SS.VG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+12 TS VG 11,12,TS,VG,11,12.TS.VG,Alturas,SG 2,OR,0,0,0,Rhizosphere Soil
+14 TS VG 10,14,TS,VG,10,14.TS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 SS VG 2,14,SS,VG,2,14.SS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 TS VG 15 ,14,TS,VG,15,14.TS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 SS VG 7,14,SS,VG,7,14.SS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 SS VG 13,14,SS,VG,13,14.SS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 TS VG 7,14,TS,VG,7,14.TS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 SS VG 1,14,SS,VG,1,14.SS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 TS VG 3,14,TS,VG,3,14.TS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 SS VG 5,14,SS,VG,5,14.SS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 SS VG 10,14,SS,VG,10,14.SS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 TS VG 4,14,TS,VG,4,14.TS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 TS VG 2,14,TS,VG,2,14.TS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 TS VG 9,14,TS,VG,9,14.TS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 SS VG 4,14,SS,VG,4,14.SS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 TS VG 8,14,TS,VG,8,14.TS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+14 SS VG 9,14,SS,VG,9,14.SS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 TS VG 12,15,TS,VG,12,15.TS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 SS VG 12,15,SS,VG,12,15.SS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 TS VG 1,15,TS,VG,1,15.TS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 SS VG 2,15,SS,VG,2,15.SS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 TS VG 11,15,TS,VG,11,15.TS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 TS VG 9,15,TS,VG,9,15.TS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 SS VG 9,15,SS,VG,9,15.SS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 TS VG 14,15,TS,VG,14,15.TS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 TS VG 6,15,TS,VG,6,15.TS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 SS VG 5,15,SS,VG,5,15.SS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 SS VG 7 ,15,SS,VG,7,15.SS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 SS VG 11,15,SS,VG,11,15.SS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 TS VG 5,15,TS,VG,5,15.TS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 SS VG 6,15,SS,VG,6,15.SS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 SS VG 8,15,SS,VG,8,15.SS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+15 TS VG 10,15,TS,VG,10,15.TS.VG,Clearwater,SG 2,OR,0,0,0,Rhizosphere Soil
+22 SS VG 6,22,SS,VG,6,22.SS.VG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 TS VG 3,22,TS,VG,3,22.TS.VG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 SS VG 10,22,SS,VG,10,22.SS.VG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 TS VG 6,22,TS,VG,6,22.TS.VG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 TS VG 11,22,TS,VG,11,22.TS.VG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 SS VG 12,22,SS,VG,12,22.SS.VG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 TS VG 12,22,TS,VG,12,22.TS.VG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 SS VG 4 X2,22,SS,VG,4,22.SS.VG,Clearwater,SG 3,AB (CA),0,0,1,Rhizosphere Soil
+22 SS VG 3,22,SS,VG,3,22.SS.VG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 TS VG 10,22,TS,VG,10,22.TS.VG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 SS VG 5,22,SS,VG,5,22.SS.VG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 TS VG 13,22,TS,VG,13,22.TS.VG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 TS VG 15,22,TS,VG,15,22.TS.VG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 TS VG 7,22,TS,VG,7,22.TS.VG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 SS VG 14,22,SS,VG,14,22.SS.VG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+22 SS VG 4 X1,22,SS,VG,4,22.SS.VG,Clearwater,SG 3,AB (CA),0,0,1,Rhizosphere Soil
+22 SS VG 13,22,SS,VG,13,22.SS.VG,Clearwater,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 TS VG 6,26,TS,VG,6,26.TS.VG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 TS VG 3,26,TS,VG,3,26.TS.VG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 TS VG 14,26,TS,VG,14,26.TS.VG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 TS VG 13,26,TS,VG,13,26.TS.VG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 SS VG 11,26,SS,VG,11,26.SS.VG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 SS VG 9 X1,26,SS,VG,9,26.SS.VG,Russet Burbank,SG 3,AB (CA),0,0,1,Rhizosphere Soil
+26 SS VG 9 X2,26,SS,VG,9,26.SS.VG,Russet Burbank,SG 3,AB (CA),0,0,1,Rhizosphere Soil
+26 SS VG 7,26,SS,VG,7,26.SS.VG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 SS VG 2,26,SS,VG,2,26.SS.VG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 TS VG 4,26,TS,VG,4,26.TS.VG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 TS VG 9,26,TS,VG,9,26.TS.VG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 SS VG 10,26,SS,VG,10,26.SS.VG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 SS VG 4,26,SS,VG,4,26.SS.VG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 SS VG 6,26,SS,VG,6,26.SS.VG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 TS VG 11,26,TS,VG,11,26.TS.VG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+26 TS VG 1,26,TS,VG,1,26.TS.VG,Russet Burbank,SG 3,AB (CA),0,0,0,Rhizosphere Soil
+25 SS VG 12,25,SS,VG,12,25.SS.VG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 TS VG 3,25,TS,VG,3,25.TS.VG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 TS VG 13,25,TS,VG,13,25.TS.VG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 SS VG 15,25,SS,VG,15,25.SS.VG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 SS VG 14,25,SS,VG,14,25.SS.VG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 SS VG 3,25,SS,VG,3,25.SS.VG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 TS VG 6,25,TS,VG,6,25.TS.VG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 SS VG 13,25,SS,VG,13,25.SS.VG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 TS VG 1,25,TS,VG,1,25.TS.VG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 TS VG 12,25,TS,VG,12,25.TS.VG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 SS VG 1,25,SS,VG,1,25.SS.VG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 TS VG 5,25,TS,VG,5,25.TS.VG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 SS VG 7,25,SS,VG,7,25.SS.VG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 TS VG 10,25,TS,VG,10,25.TS.VG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+25 TS VG 14,25,TS,VG,14,25.TS.VG,Russet Burbank,SG 4, MT,0,0,0,Rhizosphere Soil
+38 SS VG 10,38,SS,VG,10,38.SS.VG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 SS VG 7,38,SS,VG,7,38.SS.VG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 SS VG 12 ,38,SS,VG,12,38.SS.VG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 TS VG 15,38,TS,VG,15,38.TS.VG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 TS VG 3,38,TS,VG,3,38.TS.VG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 SS VG 3,38,SS,VG,3,38.SS.VG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 TS VG 5,38,TS,VG,5,38.TS.VG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 TS VG 14,38,TS,VG,14,38.TS.VG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 SS VG 14,38,SS,VG,14,38.SS.VG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 SS VG 11,38,SS,VG,11,38.SS.VG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 TS VG 10,38,TS,VG,10,38.TS.VG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 TS VG 9,38,TS,VG,9,38.TS.VG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 TS VG 2,38,TS,VG,2,38.TS.VG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 TS VG 4,38,TS,VG,4,38.TS.VG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 SS VG 1,38,SS,VG,1,38.SS.VG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+38 SS VG 5,38,SS,VG,5,38.SS.VG,Alturas,SG 6,AB (CA),0,0,0,Rhizosphere Soil
+8 TS,8,,,,,Shepody,SG 1,ID,1,0,0,Tare Soil
+37 TS,37,,,,,Alturas,SG 1,ID,1,0,0,Tare Soil
+10 TS,10,,,,,Shepody,SG 2,OR,1,0,0,Tare Soil
+12 TS,12,,,,,Alturas,SG 2,OR,1,0,0,Tare Soil
+14 TS,14,,,,,Clearwater,SG 2,OR,1,0,0,Tare Soil
+15 TS ,15,,,,,Clearwater,SG 2,OR,1,0,0,Tare Soil
+22 TS,22,,,,,Clearwater,SG 3,AB (CA),1,0,0,Tare Soil
+26 TS,26,,,,,Russet Burbank,SG 3,AB (CA),1,0,0,Tare Soil
+25 TS ,25,,,,,Russet Burbank,SG 4, MT,1,0,0,Tare Soil
+38 TS,38,,,,,Alturas,SG 6,AB (CA),1,0,0,Tare Soil
+poscon1,,,,,,,,,0,0,0,Control
+negcon1,,,,,,,,,0,0,0,Control
+VG mix,,,VG,,,,,,0,1,0,Bulk Soil
+VG ,,,VG,,,,,,0,1,0,Bulk Soil Inoculant
+AG mix,,,AG,,,,,,0,1,0,Bulk Soil
+AG,,,AG,,,,,,0,1,0,Bulk Soil Inoculant
+Blank,,,,,,,,,0,0,0,Control
+poscon2,,,,,,,,,0,0,0,Control
+negcon2,,,,,,,,,0,0,0,Control
+poscon3,,,,,,,,,0,0,0,Control
+negcon3,,,,,,,,,0,0,0,Control
+poscon4,,,,,,,,,0,0,0,Control
+negcon4,,,,,,,,,0,0,0,Control
