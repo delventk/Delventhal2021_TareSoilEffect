@@ -3,7 +3,7 @@
 ## By Kayla Delventhal, Posy E. Busby, Kenneth Frost
 This manuscript is in review.
 
-This repository includes code for data processing/bioinformatics (directories: "CodeProcessing_Bacteria" and "CodeProcessing_Fungi") as well as for analysis ("Code")
+This repository includes code for data processing/bioinformatics (directories: "CodeProcessing_Bacteria" and "CodeProcessing_Fungi") as well as for analysis ("Code"). Downloading and using the R Project will help set the working directory in Rstudio. The "phy_object" folders contain the phyloseq objects (containing OTU matricies, taxonomy tables, and meta data) that are called on in the code for analyses. 
 
 ## Data
 This 16S and ITS data are publicly available in the NCBI Short Read Archive under the accession number PRJNA717671
